@@ -20,3 +20,10 @@ Remove students by roll number.
 Search for students by roll number.
 Display a list of all students.
 
+TASK_3
+Java ATM Machine
+A simple Java ATM machine program for basic banking transactions.
+Features
+Check Balance
+Deposit
+Withdraw
